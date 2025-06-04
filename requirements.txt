@@ -1,0 +1,6 @@
+Pillow
+mss
+opencv-python
+pyautogui
+numpy
+pyinstaller
